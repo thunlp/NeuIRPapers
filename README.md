@@ -2,23 +2,23 @@
 Must-read Papers on Neural Information Retrieval
 
 ## Contents
-1. <a href="#Survey Papers">Survey Papers</a>
-2. <a href="#Neural IR Models">Neural IR Models</a>
-3. <a href="#ANN">ANN</a>
-4. <a href="#Knowledge IR">Knowledge IR</a>
-5. <a href="#Domain Transfer">Domain Transfer</a>
+[1. Survey Papers](1-survey-papers)
+[2. Neural IR Models](2-neural-ir-models)
+[3. ANN](3-ann)
+[4. Knowledge IR](4-knowledge-ir)
+[5. Domain Transfer](5-domain-transfer)
 
-## Survey Papers
+## 1. Survey Papers
 TBD
 
-## Neural IR Models
+## 2. Neural IR Models
 TBD
 
-## ANN
+## 3. ANN
 TBD
 
-## Knowledge IR
+## 4. Knowledge IR
 TBD
 
-## Domain Transfer
+## 5. Domain Transfer
 TBD
