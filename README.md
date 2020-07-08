@@ -29,9 +29,10 @@ Must-read Papers on Neural Information Retrieval
 
 ### [Pretrained Models](#contents)
 1. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.** *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova.* NAACL-HLT 2019. [paper](https://arxiv.org/pdf/1810.04805.pdf)
-2. **SciBERT: A Pretrained Language Model for Scientific Text。** *Iz Beltagy, Kyle Lo, Arman Cohan.* EMNLP 2019. [paper](https://pdfs.semanticscholar.org/1794/8fa14d349d6d62d7c8db9192387fdbf46d20.pdf?_ga=2.152662395.335311438.1594198419-1591906981.1593848441)
-3. **RoBERTa: A Robustly Optimized BERT Pretraining Approach.** *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov.* arxiv 2019. [paper](https://arxiv.org/pdf/1907.11692.pdf)
-4. **ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators.** *Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning.* ICLR 2020. [paper](https://arxiv.org/pdf/2003.10555.pdf)
+2. **Understanding the Behaviors of BERT in Ranking.** *Yifan Qiao, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu.* arxiv 2019. [paper](https://arxiv.org/pdf/1904.07531.pdf)
+3. **SciBERT: A Pretrained Language Model for Scientific Text。** *Iz Beltagy, Kyle Lo, Arman Cohan.* EMNLP 2019. [paper](https://pdfs.semanticscholar.org/1794/8fa14d349d6d62d7c8db9192387fdbf46d20.pdf?_ga=2.152662395.335311438.1594198419-1591906981.1593848441)
+5. **RoBERTa: A Robustly Optimized BERT Pretraining Approach.** *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov.* arxiv 2019. [paper](https://arxiv.org/pdf/1907.11692.pdf)
+6. **ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators.** *Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning.* ICLR 2020. [paper](https://arxiv.org/pdf/2003.10555.pdf)
 
 ## [3. ANN](#contents)
 1. **Complementing Lexical Retrieval with Semantic Residual Embedding.**  *Luyu Gao, Zhuyun Dai, Zhen Fan, Jamie Callan.* arxiv 2020. [paper](https://arxiv.org/pdf/2004.13969.pdf)
