@@ -9,7 +9,7 @@ Must-read Papers on Neural Information Retrieval
 - <a href="#5-domain-transfer">5. Domain Transfer</a>
 
 ## [1. Survey Papers](#contents)
-TBD
+1. **A Deep Look into Neural Ranking Models for Information Retrieval.** *Jiafeng Guo, Yixing Fan, Liang Pang, Liu Yang, Qingyao Ai, Hamed Zamani, Chen Wu, W. Bruce Croft, Xueqi Cheng.* [paper](https://arxiv.org/abs/1903.06902)
 
 ## [2. Neural IR Models](#contents)
 1. **End-to-End Neural Ad-hoc Ranking with Kernel Pooling.** *Chenyan Xiong, Zhuyun Dai, Jamie Callan, Zhiyuan Liu, Russell Power.* SIGIR 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3077136.3080809)
