@@ -4,8 +4,8 @@ Must-read Papers on Neural Information Retrieval
 ## Contents
 - <a href="#1-survey-papers">1. Survey Papers</a>
 - <a href="#2-neuir-models">2. NeuIR Models</a>
-  - <a href="#2.1.-nn-models">2.1. NN Models</a>
-  - <a href="#2.2.-pretrained-models">2.2. Pretrained Models</a>
+  - <a href="#nn-models">2.1. NN Models</a>
+  - <a href="#pretrained-models">2.2. Pretrained Models</a>
 - <a href="#3-ann">3. ANN</a>
 - <a href="#4-knowledge-ir">4. Knowledge IR</a>
 - <a href="#5-domain-transfer">5. Domain Transfer</a>
@@ -14,7 +14,7 @@ Must-read Papers on Neural Information Retrieval
 1. **A Deep Look into Neural Ranking Models for Information Retrieval.** *Jiafeng Guo, Yixing Fan, Liang Pang, Liu Yang, Qingyao Ai, Hamed Zamani, Chen Wu, W. Bruce Croft, Xueqi Cheng.* [paper](https://arxiv.org/abs/1903.06902)
 
 ## [2. NeuIR Models](#contents)
-### [2.1. NN Models](#contents)
+### [NN Models](#contents)
 1. **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data.** *Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Acero, Larry Heck.* CIKM 2013. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 2. **Convolutional Neural Network Architectures for Matching Natural Language Sentences.** *Baotian Hu, Zhengdong Lu, Hang Li, Qingcai Chen.* NeurIPS 2014. [paper](https://arxiv.org/pdf/1503.03244.pdf)
 3. **Learning Semantic Representations Using Convolutional Neural Networks for Web Search.** *Yelong Shen, Xiaodong He, Jianfeng Gao, Li Deng, Grégoire Mesnil.* WWW 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/www2014_cdssm_p07.pdf)
@@ -27,7 +27,7 @@ Must-read Papers on Neural Information Retrieval
 10. **Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search.** *Zhuyun Dai, Chenyan Xiong, Jamie Callan, Zhiyuan Liu.* WSDM 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3159652.3159659)
 11. **Interpretable & Time-Budget-Constrained Contextualization for Re-Ranking.** *Sebastian Hofstätter, Markus Zlabinger, Allan Hanbury.* ECAI 2020. [paper](https://arxiv.org/pdf/1912.01385.pdf)
 
-### [2.2. Pretrained Models](#contents)
+### [Pretrained Models](#contents)
 1. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.** *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova.* NAACL-HLT 2019. [paper](https://arxiv.org/pdf/1810.04805.pdf)
 2. **SciBERT: A Pretrained Language Model for Scientific Text。** *Iz Beltagy, Kyle Lo, Arman Cohan.* EMNLP 2019. [paper](https://pdfs.semanticscholar.org/1794/8fa14d349d6d62d7c8db9192387fdbf46d20.pdf?_ga=2.152662395.335311438.1594198419-1591906981.1593848441)
 3. **RoBERTa: A Robustly Optimized BERT Pretraining Approach.** *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov.* arxiv 2019. [paper](https://arxiv.org/pdf/1907.11692.pdf)
