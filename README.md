@@ -2,10 +2,10 @@
 Must-read Papers on Neural Information Retrieval
 
 ## Contents
-- <a href="#survey-papers">1. Survey Papers</a>
-- <a href="#neuir-models">2. NeuIR Models</a>
-  - <a href="#nn-models">1. NN Models</a>
-  - <a href="#pretrained-models">2. Pretrained Models</a>
+- <a href="#1-survey-papers">1. Survey Papers</a>
+- <a href="#2-neuir-models">2. NeuIR Models</a>
+  - <a href="#1-nn-models">1. NN Models</a>
+  - <a href="#2-pretrained-models">2. Pretrained Models</a>
 - <a href="#3-ann">3. ANN</a>
 - <a href="#4-knowledge-ir">4. Knowledge IR</a>
 - <a href="#5-domain-transfer">5. Domain Transfer</a>
