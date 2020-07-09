@@ -52,4 +52,14 @@ Must-read Papers on Neural Information Retrieval
 
 
 ## [5. Domain Transfer](#contents)
-TBD
+1. **Meta-Learning in Neural Networks: A Survey.** *Timothy Hospedales, Antreas Antoniou, Paul Micaelli, Amos Storkey.* ArXiv 2020. [paper](https://arxiv.org/pdf/2004.05439.pdf)
+2. **Content-Based Weak Supervision for Ad-Hoc Re-Ranking.** *Sean MacAvaney, Andrew Yates, Kai Hui, Ophir Frieder.* SIGIR 2019. [paper](https://pure.mpg.de/rest/items/item_3184691/component/file_3184692/content)
+3. **Critically Examining the "Neural Hype": Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models. ** *Wei Yang, Kuang Lu, Peilin Yang, Jimmy Lin.* SIGIR 2019. [paper](https://arxiv.org/pdf/1904.09171.pdf)
+4. **Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise. ** *Dan Hendrycks, Mantas Mazeika, Duncan Wilson, Kevin Gimpel.* NeurIPS 2018. [paper](https://papers.nips.cc/paper/8246-using-trusted-data-to-train-deep-networks-on-labels-corrupted-by-severe-noise.pdf)
+5. **Learning to Reweight Examples for Robust Deep Learning.** *Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun.* ICML 2018. [paper](https://arxiv.org/pdf/1803.09050.pdf?utm_campaign=TWUSUPER&utm_campaign=TWUSUPER&utm_medium=referral&utm_medium=referral&utm_source=Super-Funds&utm_source=Super-Funds)
+6. **On the Theory of Weak Supervision for Information Retrieval.** *Hamed Zamani, W. Bruce Croft.* CTIR 2018. [paper](https://www.cs.ru.nl/~arjen/RSDS2019/RU_RSDS_2019_paper_43.pdf)
+7. **Co-teaching: Robust training of deep neural networks with extremely noisy labels.** *Bo Han, Quanming Yao, Xingrui Yu, Gang Niu, Miao Xu, Weihua Hu, Ivor Tsang, Masashi Sugiyama.* NeurIPS 2018. [paper](https://arxiv.org/pdf/1804.06872.pdf)
+8. **Neural Ranking Models with Weak Supervision.** *Mostafa Dehghani, Hamed Zamani, Aliaksei Severyn, JaapKamps, W.Bruce.* SIGIR 2017. [paper](https://arxiv.org/pdf/1704.08803.pdf)
+9. **Learning to Learn from Weak Supervision by Full Supervision.** *Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, JaapKamps.* NeurIPS 2017. [paper](http://metalearning.ml/2017/papers/metalearn17_dehghani.pdf)
+10. **Training Deep Ranking Model with Weak Relevance Labels.** *ChengLuo, YukunZheng, JiaxinMao, YiqunLiu, MinZhang, ShaopingMa.* ADC 2017. [paper](http://www.thuir.org/group/~chengluo/publications/ADC2017.pdf)
+
