@@ -62,4 +62,4 @@ Must-read Papers on Neural Information Retrieval
 8. **Neural Ranking Models with Weak Supervision.** *Mostafa Dehghani, Hamed Zamani, Aliaksei Severyn, JaapKamps, W.Bruce.* SIGIR 2017. [paper](https://arxiv.org/pdf/1704.08803.pdf)
 9. **Learning to Learn from Weak Supervision by Full Supervision.** *Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, JaapKamps.* NeurIPS 2017. [paper](http://metalearning.ml/2017/papers/metalearn17_dehghani.pdf)
 10. **Training Deep Ranking Model with Weak Relevance Labels.** *ChengLuo, YukunZheng, JiaxinMao, YiqunLiu, MinZhang, ShaopingMa.* ADC 2017. [paper](http://www.thuir.org/group/~chengluo/publications/ADC2017.pdf)
-
+11. **Selective Weak Supervision for Neural Information Retrieval.** *Kaitao Zhang, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu.* WWW 2020. [paper](https://arxiv.org/pdf/2001.10382v1.pdf)
